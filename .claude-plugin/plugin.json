@@ -1,0 +1,10 @@
+{
+  "name": "usage-limits",
+  "version": "0.1.0",
+  "description": "Pane with the 5-hour and weekly rate-limit bars, in percent and tokens",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "VanilaStyle"
+  }
+}
